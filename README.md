@@ -4,14 +4,16 @@
 This project focuses on analyzing and improving operational efficiencies within the City of Boston's workforce. Utilizing a dataset of employee salaries and other relevant details, the project aims to identify trends, correlations, and opportunities for operational improvement.
 
 ## Table of Contents
+- [Overview](#overview)
 - [Dataset Description](#dataset-description)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Installation Instructions](#installation-instructions)
 - [Usage](#usage)
 - [Visualizations](#visualizations)
+- [Key Findings](#key-findings)
+- [Conclusion](#conclusion)
 - [Contributions](#contributions)
-
+  
 ## Dataset Description
 The dataset contains detailed employee salary information from the City of Boston, including the following fields:
 - **_id**: Unique identifier for the employee.
