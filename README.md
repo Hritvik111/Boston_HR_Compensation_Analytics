@@ -46,7 +46,7 @@ Follow the notebooks in sequence:
 - 03-Data-Ingestion.ipynb: Load cleaned data and ingest into database.
 
 ## Visualizations
-In addition to the static visualizations created with Matplotlib and Seaborn, an interactive dashboard has been created using Tableau Public. This dashboard allows users to explore the data dynamically, filter by department or job title, and visualize salary trends across different categories. The Tableau Public visualization can be accessed here -  [City of Boston HR Dashboard](https://public.tableau.com/app/profile/hritvik.mahajan/viz/CityofBostonHRDashboard-2023/Dashboard2).
+In addition to the static visualizations created with Matplotlib and Seaborn, an interactive dashboard has been created using Tableau Public. This dashboard allows users to explore the data dynamically, filter by department, and visualize salary trends across different categories. The Tableau Public visualization can be accessed here -  [City of Boston HR Dashboard](https://public.tableau.com/app/profile/hritvik.mahajan/viz/CityofBostonHRDashboard-2023/Dashboard2).
 
 ![image](https://github.com/user-attachments/assets/66cc698e-a4ed-42b3-96c1-ce516422077a)
 
