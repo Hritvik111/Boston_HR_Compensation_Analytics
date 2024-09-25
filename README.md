@@ -77,14 +77,6 @@ These visualizations can also be found in the visuals/ folder.
 ### 7. Regional Payroll Disparities
 - The highest average regular pay is found in postal code **2065**, with **$223,456.69**. Addressing regional disparities can aid the **Department of Innovation and Technology (DoIT)** in effective resource allocation.
 
-## Implications for the Operational Improvement Analyst Role
-The insights from this analysis offer numerous opportunities for the Operational Improvement Analyst to:
-
-- **Document and Analyze Current Practices:** Collaborate with departments to document policies, focusing on overtime usage and compensation disparities.
-- **Drive Process Improvement Initiatives:** Utilize qualitative and quantitative data analysis to propose actionable changes that enhance operational efficiency.
-- **Implement Strategic Change Management:** Participate in managing new policies and tools, ensuring effective change management strategies.
-- **Centralize Data and Measure Effectiveness:** Work with the DoIT to streamline data processes for better measurement of process effectiveness and identification of improvement opportunities.
-
 ## Conclusion
 The insights gathered reflect significant areas for operational improvement within the City of Boston’s workforce policies. By leveraging these findings, we can enhance efficiency, equity, and employee satisfaction across departments.
 
