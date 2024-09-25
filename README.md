@@ -50,12 +50,41 @@ In addition to the static visualizations created with Matplotlib and Seaborn, an
 
 These visualizations can also be found in the visuals/ folder.
 
+## Key Findings
 
-## Conclusion and Findings
+### 1. Overtime Costs and Employee Compensation
+- The **Boston Police Department** incurred the highest overtime costs in the last fiscal year, followed closely by the **Boston Fire Department**.
+- The **Boston Fire Department** leads in average total gross pay at **$155,369.50**, highlighting disparities across departmental pay structures.
 
-Through the analysis of the City of Boston's employee salary dataset, several key findings and insights emerged:
+### 2. Retroactive Pay Distribution
+- The **Special Education Department** had the highest retroactive pay, totaling **$2,961,040.98** for 847 employees. 
+- **Facilities Management** follows with **$2,721,415.78** distributed among 604 employees, indicating significant retroactive payments.
 
-1. 
+### 3. Overtime Workforce Dependence
+- **90.28%** of employees in the **Boston Fire Department** and **81.55%** in the **Boston Police Department** work overtime, suggesting a reliance on overtime that may affect operational sustainability.
+
+### 4. Dependence on Non-Regular Compensation
+- Departments like **Mission Hill K-8** and **Business Services** report over **40-50%** of gross pay from non-regular sources, while elementary schools average **8-10%**. This inconsistency highlights potential areas for payroll policy revision.
+
+### 5. Additional Compensation Insights
+- The **Boston Police Department**, **Boston Fire Department**, and **Transportation** departments show a high number of employees receiving additional compensation. This suggests opportunities for centralizing customer support strategies to optimize resource allocation.
+
+### 6. Quinn Education Benefits Impact
+- Employees with **Quinn Education** benefits receive an average total compensation of **$172,410**, compared to **$77,519** for those without. This indicates the potential value of expanding educational benefits to improve employee retention.
+
+### 7. Regional Payroll Disparities
+- The highest average regular pay is found in postal code **2065**, with **$223,456.69**. Addressing regional disparities can aid the **Department of Innovation and Technology (DoIT)** in effective resource allocation.
+
+## Implications for the Operational Improvement Analyst Role
+The insights from this analysis offer numerous opportunities for the Operational Improvement Analyst to:
+
+- **Document and Analyze Current Practices:** Collaborate with departments to document policies, focusing on overtime usage and compensation disparities.
+- **Drive Process Improvement Initiatives:** Utilize qualitative and quantitative data analysis to propose actionable changes that enhance operational efficiency.
+- **Implement Strategic Change Management:** Participate in managing new policies and tools, ensuring effective change management strategies.
+- **Centralize Data and Measure Effectiveness:** Work with the DoIT to streamline data processes for better measurement of process effectiveness and identification of improvement opportunities.
+
+## Conclusion
+The insights gathered reflect significant areas for operational improvement within the City of Boston’s workforce policies. By leveraging these findings, the Operational Improvement Analyst can enhance efficiency, equity, and employee satisfaction across departments.
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
