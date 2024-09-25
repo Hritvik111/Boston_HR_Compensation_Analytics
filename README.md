@@ -86,7 +86,7 @@ The insights from this analysis offer numerous opportunities for the Operational
 - **Centralize Data and Measure Effectiveness:** Work with the DoIT to streamline data processes for better measurement of process effectiveness and identification of improvement opportunities.
 
 ## Conclusion
-The insights gathered reflect significant areas for operational improvement within the City of Boston’s workforce policies. By leveraging these findings, the Operational Improvement Analyst can enhance efficiency, equity, and employee satisfaction across departments.
+The insights gathered reflect significant areas for operational improvement within the City of Boston’s workforce policies. By leveraging these findings, we can enhance efficiency, equity, and employee satisfaction across departments.
 
 ## Contributions
 Contributions are welcome! Please open an issue or submit a pull request if you would like to contribute to this project.
